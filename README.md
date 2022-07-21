@@ -5,14 +5,12 @@ However, the quality and reliability of Wikipedia’s articles and content vary
 significantly. Since articles are written collaboratively by largely anonymous volunteers
 worldwide, they may contain false, incomplete, and debatable information. This report
 documents the joint effort to write, update and improve the quality of the ["embodied
-cognition"](https://en.wikipedia.org/wiki/Embodied_cognition) article on Wikipedia–and related ones. Over time, this resulted in an upward
-trend to reach encyclopedic quality with a "good article" score on the WikiProject
-Psychology’s rating scale (bottom right image) and an increase in the article's size (top right image) and pageviews (bottom left image).
+cognition"](https://en.wikipedia.org/wiki/Embodied_cognition) article on Wikipedia–and related ones. Over time, this resulted in an upward trend to reach encyclopedic quality with a "good article" score on the WikiProject
+Psychology’s rating scale and an increase in the article's size and pageviews.
 
 
 
-<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/content-diagram/Screenshot%202021-09-29%20at%2022.36.17.png" width='400' height='400'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/edits_count_and_size.jpeg" width='600' height='450'/> 
-<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/monthly_views_30_months.jpeg" width='495' height='380'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/wiki_assessment_scale.jpeg" width='500' height='400'/>
+<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/content-diagram/Screenshot%202021-09-29%20at%2022.36.17.png" width='300' height='300'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/edits_count_and_size.jpeg" width='450' height='380'/> 
 
 
 
