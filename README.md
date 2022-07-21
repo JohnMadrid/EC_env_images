@@ -11,8 +11,8 @@ Psychology’s rating scale (bottom right image) and an increase in the article'
 
 
 
-<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/content-diagram/Screenshot%202021-09-29%20at%2022.36.17.png" width='400' height='400'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/edits_count_and_size.jpeg" width='600' height='400'/> 
-<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/monthly_views_30_months.jpeg" width='500' height='400'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/wiki_assessment_scale.jpeg" width='500' height='400'/>
+<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/content-diagram/Screenshot%202021-09-29%20at%2022.36.17.png" width='400' height='400'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/edits_count_and_size.jpeg" width='600' height='450'/> 
+<img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/monthly_views_30_months.jpeg" width='495' height='380'/><img src="https://github.com/JohnMadrid/EC_env_images/blob/main/WikiPageAnalysis/Images/wiki_assessment_scale.jpeg" width='500' height='400'/>
 
 
 
