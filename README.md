@@ -20,7 +20,7 @@ This repository contains several folders with information supporting some of the
 - __WikiPageAnalysis__ contains a jupyter notebook along with all the relevant information (data, images) regarding the data analysis done on the quality, size, and pageviews of the embodied cognition page on Wikipedia.
 - __content-diagram__ contains the HTML, JS, and CSS code to create the Venn Diagram portarying the scope of embodied cognition.
 - __history-timeline__ contains the HTML, JS, and CSS code to create an alternative version of the image for history timeline of embodied cognition. It was not included in the artcile's final version.
-- __embodied-cognition-report__ is a the final report of the project summarising the main contributions of the author, the edits done to the article on Wikipedia, and the findings regarding the article's size, quality, and pageviews.
+- __Report_Embodied_Cognition__ is a PDF file with the final report of the project summarising the main contributions of the author, the edits done to the article on Wikipedia, and the findings regarding the article's size, quality, and pageviews.
 
 ### Additional supporting material
 Additional material created online can be found in the links below (some may equire access permissions).
